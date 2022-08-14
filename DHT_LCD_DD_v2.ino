@@ -1,6 +1,6 @@
 //Modified by Dan Davis, public domain.
 //modified to get DHT11 sensor to dispaly on LCD : 2 lines , 16 pins, and either F or C degrees
-// modifeid sketces  from  Peter Dalmaris, Lee Assam, and Hive-RD blog
+// modified sketches  from  Peter Dalmaris, Lee Assam, and Hive-RD blog
 
 #include "LiquidCrystal.h"
 
